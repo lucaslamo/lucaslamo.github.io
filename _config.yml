@@ -13,6 +13,6 @@ github_username:  lucaslamo
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-120202386-1"
 
 exclude: ['package.json', 'src' , 'node_modules']
